@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/sandcastle1/static/css/main.4f199e55.css",
+    "main.js": "/sandcastle1/static/js/main.a26cdeb4.js",
+    "static/js/787.fe0e4ddc.chunk.js": "/sandcastle1/static/js/787.fe0e4ddc.chunk.js",
+    "static/media/shorts.png": "/sandcastle1/static/media/shorts.3249d9b717fa4e4154ba.png",
+    "static/media/navyshorts.png": "/sandcastle1/static/media/navyshorts.f7d0d1335b8dcb4e2cb5.png",
+    "static/media/hoodie.png": "/sandcastle1/static/media/hoodie.13a56381d99e7fc41f43.png",
+    "static/media/navyt.png": "/sandcastle1/static/media/navyt.17d73de236904a259230.png",
+    "static/media/dogcollar.png": "/sandcastle1/static/media/dogcollar.262620a3f09df4eb6138.png",
+    "static/media/kitsocks.png": "/sandcastle1/static/media/kitsocks.fe1376b9195e88beb9a4.png",
+    "static/media/keyring.png": "/sandcastle1/static/media/keyring.13be11a75022225df137.png",
+    "static/media/poster.png": "/sandcastle1/static/media/poster.11eca2078a4e1424db1b.png",
+    "static/media/logo.png": "/sandcastle1/static/media/logo.50c6c90f82c7fa3066a0.png",
+    "static/media/kit.jpg": "/sandcastle1/static/media/kit.e0102d680fc6421e41e7.jpg",
+    "static/media/tshirt.jpg": "/sandcastle1/static/media/tshirt.d4d1b97f17fcce190e83.jpg",
+    "static/media/socks.jpg": "/sandcastle1/static/media/socks.11e3190f9bcc3e7c6faa.jpg",
+    "static/media/ball.jpeg": "/sandcastle1/static/media/ball.3e57ebf912f5112f385a.jpeg",
+    "static/media/mug.jpg": "/sandcastle1/static/media/mug.19b132a9bb2de083015a.jpg",
+    "index.html": "/sandcastle1/index.html",
+    "main.4f199e55.css.map": "/sandcastle1/static/css/main.4f199e55.css.map",
+    "main.a26cdeb4.js.map": "/sandcastle1/static/js/main.a26cdeb4.js.map",
+    "787.fe0e4ddc.chunk.js.map": "/sandcastle1/static/js/787.fe0e4ddc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f199e55.css",
+    "static/js/main.a26cdeb4.js"
+  ]
+}
